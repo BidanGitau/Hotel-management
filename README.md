@@ -1,6 +1,6 @@
 
 # Hotel-management 
-<p>bookings and the admin can track  customer visits</p>
-<p>get newsletter</p>
-<p>track transaction by utilisation of cms for the admin
+<p style="fontSize:small;">Bookings and the admin can track  customer visits and the customers can make bookings and alsohave a <br> view of the hotels</p>
+<p>Get newsletter</p>
+<p>Track transaction by utilisation of cms for the admin
 
